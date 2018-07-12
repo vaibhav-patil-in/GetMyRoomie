@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-security-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-security-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jersey-asm-3.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jersey-core-1.18.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jersey-json-1.18.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jersey-server-gae-1.18.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jersey-servlet-1.18.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jersey-spring-1.18.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
